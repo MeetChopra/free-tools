@@ -2,40 +2,37 @@
 
 We are making a list of all the free tools out there. Feel free to contribute and add new tools. 
 
-## Analytics(https://keen.io/)[Keen] Ship user-facing metrics in an afternoon, not months	
-(https://get.fabric.io/)[Fabric] A platform that helps your mobile team build better apps, understand your users, and grow your business.	
+## Analytics
 
-(https://mixpanel.com/)[Mixpanel] User behavior analytics for product, marketing, and data teams.
-(https://segment.com/)[Segment] Use Segment to collect, clean, and control your customer data.
-(https://www.hotjar.com/)[Hotjar] See how visitors are really using your website, collect user feedback and turn more visitors into customers.
-(https://usefathom.com/)[Fathom Analytics] Simple, useful websites stats without tracking or storing personal data of your users.	
-(https://count.ly/)[Countly] The best mobile analytics and marketing, web, desktop and IoT analytics platform for securely tracking customer journeys in your applications.	
-(https://amplitude.com/)[Amplitude] Truly understand what makes your users tick, rapidly release better product experiences, and grow your business across web and mobile.	
-(https://marketingplatform.google.com/about/analytics/)[Google Analytics] Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place.	
-(https://matomo.org/)[Matomo] Formerly Piwik, Matomo is a free and open source web analytics application	
-(https://www.inspectlet.com/)[Inspectlet] Stop guessing what your visitors want. Google Analytics tells you what, Inspectlet tells you why.	
-(https://clicky.com)[Clicky] Simply the best way to monitor, analyze, and react to your blog or web site's traffic in real time.	
-(https://www.cyfe.com)[Cyfe] Social media, analytics, marketing, sales, support, infrastructure... all in one place. Track your entire business in real-time.	
-(https://www.quantcast.com/products/measure-audience-insights/)[Quantcast Measure] Quantcast Measure provides deep, real-time insights about who your audience is, what motivates them, and how they spend time across your properties.	
-(http://www.openwebanalytics.com/)[Open Web Analytics] Open Source Web Analytics Framework	
+[Keen](https://keen.io/) Ship user-facing metrics in an afternoon, not months	
 
-## Email
+[Fabric](https://get.fabric.io/) A platform that helps your mobile team build better apps, understand your users, and grow your business.	
 
-[https://mailchimp.com](MailChimp) Mailchimp is a marketing automation platform and an email marketing service.	
+[Mixpanel](https://mixpanel.com/) User behavior analytics for product, marketing, and data teams.
 
-[https://www.mailjet.com/](Mailjet) Email Delivery Service for Marketing & Developer Teams	
+[Segment](https://segment.com/) Use Segment to collect, clean, and control your customer data.
 
-[https://sendpulse.com](SendPulse) Automate your marketing and combine all delivery channels on one platform: email, web push notifications, SMS, Viber.	
+[Hotjar](https://www.hotjar.com/) See how visitors are really using your website, collect user feedback and turn more visitors into customers.
 
-[https://www.benchmarkemail.com/](Benchmark) Email Marketing Service to engage subscribers, nurture leads, send beautiful, responsive emails and track results.	
+[Fathom Analytics](https://usefathom.com/) Simple, useful websites stats without tracking or storing personal data of your users.	
 
-[https://www.sendinblue.com/](SendInBlue) All-in-one email marketing, SMS, transactional email (SMTP), and marketing automation platform.	
+[Countly](https://count.ly/) The best mobile analytics and marketing, web, desktop and IoT analytics platform for securely tracking customer journeys in your applications.	
 
-[https://www.zoho.com/campaigns/](Zoho Campaigns) Zoho Campaigns is an email marketing software that helps businesses drive more sales.	
+[Amplitude](https://amplitude.com/) Truly understand what makes your users tick, rapidly release better product experiences, and grow your business across web and mobile.	
 
-[https://www.mailerlite.com/](Mailerlite) Email Marketing & Automation for Small Businesses, Professional Bloggers and Authors	
+[Google Analytics](https://marketingplatform.google.com/about/analytics/) Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place.	
 
-[https://www.verticalresponse.com/](VerticalResponse) VerticalResponse allows you to build custom lead capture forms and landing pages, and promote on social media all in one place.	
+[Matomo](https://matomo.org/) Formerly Piwik, Matomo is a free and open source web analytics application	
+
+[Inspectlet](https://www.inspectlet.com/) Stop guessing what your visitors want. Google Analytics tells you what, Inspectlet tells you why.	
+
+[Clicky](https://clicky.com) Simply the best way to monitor, analyze, and react to your blog or web site's traffic in real time.	
+
+[Cyfe](https://www.cyfe.com) Social media, analytics, marketing, sales, support, infrastructure... all in one place. Track your entire business in real-time.	
+
+[Quantcast Measure](https://www.quantcast.com/products/measure-audience-insights/) Quantcast Measure provides deep, real-time insights about who your audience is, what motivates them, and how they spend time across your properties.	
+
+[Open Web Analytics](http://www.openwebanalytics.com/) Open Source Web Analytics Framework	
 
 ## CRM
 
