@@ -1,5 +1,6 @@
 # List of free tools 
-We are making a list of all the free tools out there. Feel free to contribute and add new tools. 
+We at [Freshping](https://freshworks.com/website-monitoring) are making a list of all the best free tools out there. 
+Help us grow the list and making it useful for others :). Feel free to contribute and add new tools. Just send a PR and we will add it.  
 
 ## Analytics
 
