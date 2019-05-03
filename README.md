@@ -103,7 +103,7 @@ Help us grow the list and making it useful for others :). Feel free to contribut
 * [DesignBold](https://www.designbold.com/) - Design a professional Facebook Cover, YouTube Channel Art, or Marketing Materials in no time. 
 * [Vectr](https://vectr.com/) - Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality. 
 * [PixTeller](https://pixteller.com/) - PixTeller improves and simplifies the design process from start to end and can be used by any marketer, blogger or website owner and anyone who needs engaging images, really!.     
-* [FontJoy](http://fontjoy.com/) - FontJoy provides you simple font pairing suggestions based on their deep learning system.    
+* [FontJoy](http://fontjoy.com/) - FontJoy provides you simple font pairing suggestions based on their deep learning system.
 * [Plain Pattern](http://www.kennethcachia.com/plain-pattern/) - Plain Pattern is a simple SVG pattern creator tool made by Kenneth Cachia.     
 * [Stencil](https://getstencil.com/) - Ridiculously simple image creation for social media marketers, bloggers and small businesses.    
 * [Fotor](http://www.fotor.com/) - Fotos is a free photo editor with an intuitive, modern interface. It's fast, visual and has virtually no learning curve. 
@@ -113,6 +113,7 @@ Help us grow the list and making it useful for others :). Feel free to contribut
 * [Pablo](https://pablo.buffer.com/) - Pablo is the child of Buffer and is a really simple graphical content editor for all your social media needs.
 * [Adcat](https://adcat.io/) - AdCat is a tool for getting the right-sized social media ad images. it prides itself on it's ability to post your graphical adds fast! with one click. 
 * [Marvel APP](https://marvelapp.com/) - Prototyping for websites, mobiles and other devices, in a friendly interface.
+* [PencilSheep] - A image editor with interface similar to Photoshop but free. Unfortunately it's no longer maintened.
 
 ## Bug tracking
 
