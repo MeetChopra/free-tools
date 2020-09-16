@@ -52,6 +52,7 @@ Help us grow the list and making it useful for others :). Feel free to contribut
 * [Zoho Campaigns](https://www.zoho.com/campaigns/) - Zoho Campaigns is an email marketing software that helps businesses drive more sales. 
 * [Mailerlite](https://www.mailerlite.com/) - Email Marketing & Automation for Small Businesses, Professional Bloggers and Authors  
 * [VerticalResponse](https://www.verticalresponse.com/) - VerticalResponse allows you to build custom lead capture forms and landing pages, and promote on social media all in one place.   
+* [Abstract Email Validation API](https://www.abstractapi.com/email-verification-validation-api) - Free API with paid options to quickly verify and validate emails
 
 
 ## CRM
