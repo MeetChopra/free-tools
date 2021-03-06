@@ -1,8 +1,5 @@
 # Free tools for startups and makers
-We at [Freshping](https://freshworks.com/website-monitoring) - are making a list of all the best free tools out there. 
-Help us grow the list and making it useful for others :). Feel free to contribute and add new tools. Just send a PR and we will add it.  
-
-![header image](https://blog-assets.freshworks.com/freshworks/wp-content/uploads/2018/09/Freshping-cover-image.jpg "header image")
+I'm making a list of all the best free tools out there. Help me grow the list and useful for others :). Feel free to contribute and add new tools. Just send a PR and I will add it.  
 
 ## Index
 * [Analytics](#analytics)
