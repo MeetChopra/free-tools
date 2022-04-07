@@ -19,6 +19,7 @@ I'm making a list of all the best free tools out there. Help me grow the list an
 * [Colors](#colors)
 * [Stock Videos](#stock-videos)
 * [Marketing Tools](#marketing-tools)
+* [Authentication Solution](#authentication-solution)
 
 
 ## Analytics
@@ -278,4 +279,7 @@ only one photo a day. It helps people improve their photography and appreciate t
 ## Marketing Tools
 * [Sumo](https://sumo.com/) - The easiest way to turn your visitors into customers. 
 * [Hello Bar](https://www.hellobar.com/) - Convert visitors into customers with a Hello Bar 
-* [Blog Ideas Generator](https://www.hubspot.com/blog-topic-generator) - HubSpot’s free Blog Ideas Generator tool gives you a year’s worth of blog post ideas.  
+* [Blog Ideas Generator](https://www.hubspot.com/blog-topic-generator) - HubSpot’s free Blog Ideas Generator tool gives you a year’s worth of blog post ideas. 
+
+## Authentication Solution
+* [MojoAuth](https://mojoauth.com/) - MojoAuth provides a free passwordless authenticaiton using Email magiclink, Email OTP, SMS OTP and WebAuthn for any web and mobile application.
