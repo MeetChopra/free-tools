@@ -42,7 +42,7 @@ I'm making a list of all the best free tools out there. Help me grow the list an
 
 ## Authentication
 
-* [MojoAuth](https://mojoauth.com) - MojoAuth is a passwordless authentication service thst provides free implementation for your website.
+* [MojoAuth](https://mojoauth.com) - MojoAuth is a free passwordless authentication service that offers secure and easy logins for your users.
 
 
 ## Email
