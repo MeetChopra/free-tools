@@ -48,7 +48,8 @@ I'm making a list of all the best free tools out there. Help me grow the list an
 * [SendInBlue](https://www.sendinblue.com/) - All-in-one email marketing, SMS, transactional email (SMTP), and marketing automation platform.   
 * [Zoho Campaigns](https://www.zoho.com/campaigns/) - Zoho Campaigns is an email marketing software that helps businesses drive more sales. 
 * [Mailerlite](https://www.mailerlite.com/) - Email Marketing & Automation for Small Businesses, Professional Bloggers and Authors  
-* [VerticalResponse](https://www.verticalresponse.com/) - VerticalResponse allows you to build custom lead capture forms and landing pages, and promote on social media all in one place.   
+* [VerticalResponse](https://www.verticalresponse.com/) - VerticalResponse allows you to build custom lead capture forms and landing pages, and promote on social media all in one place.
+* [Campaign Cleaner](https://campaigncleaner.com/) - Software that automatically optimizes your email HTML to improve delievery and ROI.   
 
 
 ## CRM
